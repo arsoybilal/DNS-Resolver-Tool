@@ -1,0 +1,17 @@
+# Python bytecode (Derleme dosyaları)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sanal ortamlar (Virtual Environments)
+venv/
+env/
+.venv/
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+
+# IDE (Visual Studio Code, PyCharm vb.) ayarları
+.vscode/
+.idea/
