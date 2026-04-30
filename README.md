@@ -15,7 +15,7 @@ Aracı çalıştırmak için sisteminizde Python 3.x yüklü olmalıdır.
 
 1.  **Depoyu Klonlayın:**
 ```bash
-git clone [https://github.com/kullaniciadi/dns-resolver-tool.git](https://github.com/kullaniciadi/dns-resolver-tool.git)
+git clone https://github.com/arsoybilal/DNS-Resolver-Tool.git
 cd dns-resolver-tool
 ```
 2.  **Bağımlılıkları Yükleyin:**
